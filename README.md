@@ -75,7 +75,7 @@ The dataset contains commercial licensing data from the **Madinah Municipality O
 
 Below is a preview of the Power BI dashboard:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshots.png)
 
 ---
 
